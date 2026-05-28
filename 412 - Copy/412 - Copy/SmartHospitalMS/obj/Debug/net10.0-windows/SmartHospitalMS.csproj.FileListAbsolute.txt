@@ -1,0 +1,216 @@
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.exe
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.deps.json
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.runtimeconfig.json
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.pdb
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfo.cs
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\refint\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.pdb
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.genruntimeconfig.cache
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\ref\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHos.5E9021AC.Up2Date
+C:\Users\DELL\Desktop\412\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll.config
+C:\Users\DELL\Desktop\412\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.sourcelink.json
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfo.cs
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.sourcelink.json
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\refint\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.pdb
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.exe
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll.config
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.deps.json
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.runtimeconfig.json
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.pdb
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHos.5E9021AC.Up2Date
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.genruntimeconfig.cache
+C:\Users\DELL\Desktop\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\ref\SmartHospitalMS.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.exe
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll.config
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.deps.json
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.runtimeconfig.json
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.pdb
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfo.cs
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.sourcelink.json
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHos.5E9021AC.Up2Date
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\refint\SmartHospitalMS.dll
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.pdb
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.genruntimeconfig.cache
+C:\Users\User\Downloads\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\ref\SmartHospitalMS.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.exe
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll.config
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.deps.json
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.runtimeconfig.json
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\SmartHospitalMS.pdb
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.AssemblyReference.cache
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfoInputs.cache
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.AssemblyInfo.cs
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.csproj.CoreCompileInputs.cache
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.sourcelink.json
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHos.5E9021AC.Up2Date
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\refint\SmartHospitalMS.dll
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.pdb
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\SmartHospitalMS.genruntimeconfig.cache
+D:\Study Notes\CS-412 Visual Programming\412 - Copy\412 - Copy\SmartHospitalMS\obj\Debug\net10.0-windows\ref\SmartHospitalMS.dll
